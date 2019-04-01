@@ -6,11 +6,16 @@ WINDOWS: modify the python code where it says "USERNAME" and "PASSWORD" to your 
   
   
 <h3><b>Purpose: </b></h3>
--	To run on both OSX and windows
--	Mounts a desired NAS drive through VPN and LAN assuming DNS is configured correctly. 
--	Be easily expandable in the event more servers are added
--	Open Plex server in chrome
--	Have a one time use login feature that stores login credentials in a separate document
+-	To run on both OSX and windows <br>
+
+-	Mounts a desired NAS drive through VPN and LAN assuming DNS is configured correctly. <br>
+
+-	Be easily expandable in the event more servers are added<br>
+
+-	Open Plex server in chrome<br>
+
+-	Have a one time use login feature that stores login credentials in a separate document<br>
+
 
 <h3><b>To be finished: </b> </h3>
 -	Username and encryption algorithm to protect login credentials instead of being stored in plain text. 
