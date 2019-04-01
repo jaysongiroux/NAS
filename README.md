@@ -5,7 +5,7 @@ MAC: in terminal run the "run.sh" script. then enter NAS Login and Password. onc
 WINDOWS: modify the python code where it says "USERNAME" and "PASSWORD" to your login credentials. then run from cmd. it will mount the drives and close its self.
   
   
-<h3><b>Purpose: </b></h3>
+<h3><b>Purpose: </b></h3> <br>
 -	To run on both OSX and windows <br>
 
 -	Mounts a desired NAS drive through VPN and LAN assuming DNS is configured correctly. <br>
@@ -17,8 +17,8 @@ WINDOWS: modify the python code where it says "USERNAME" and "PASSWORD" to your 
 -	Have a one time use login feature that stores login credentials in a separate document<br>
 
 
-<h3><b>To be finished: </b> </h3>
--	Username and encryption algorithm to protect login credentials instead of being stored in plain text. 
--	GUI for windows
--	Server monitoring to determine if server is online before trying to mount to it. This would prevent time-out errors which take approx. 30 seconds for machines on OSX. 
+<h3><b>To be finished: </b> </h3> <br>
+-	Username and encryption algorithm to protect login credentials instead of being stored in plain text. <br>
+-	GUI for windows<br>
+-	Server monitoring to determine if server is online before trying to mount to it. This would prevent time-out errors which take approx. 30 seconds for machines on OSX. <br>
 
